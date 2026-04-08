@@ -1,1 +1,1 @@
-echo 'console.log("Hello DevOps World");' > app.js
+echo 'console.log("Hello DevOps World");'
